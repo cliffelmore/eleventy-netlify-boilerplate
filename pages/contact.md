@@ -2,8 +2,8 @@
 layout: layouts/contact.njk
 title: Get in touch
 section: contact
-date: 2018-01-01
-permalink: /contact/index.html
+date: 2018-01-01T00:00:00.000Z
+permalink: /about/index.html
 eleventyNavigation:
   key: Contact
   order: 3
